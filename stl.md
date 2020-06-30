@@ -2,7 +2,7 @@
 
 
 
->> **Table of content**
+> **Table of content**
 - [Templates in C++](#templates-in-c)
 - [STL Algorithm Basics](#stl-algorithm-basics)
   - [sort()](#sort)
@@ -14,11 +14,17 @@
   - [count()](#count)
 - [Containers](#containers)
   - [vector](#vector)
-    - [Questions](#questions)
+    - [questions](#vector-questions)
   - [Pairs](#pairs)
+    - [questions](#pair-questions)
   - [Iterators](#iterators)
   - [Set](#set)
+    - [questions](#set-questions)
   - [Map](#map)
+    - [questions](#map-questions)
+  - [Stack](#stack)
+    - [questions](#stack-questions)
+- [Misc Questions](#misc)
 - [Resources](#resources)
 
 ### Templates in C++
@@ -45,26 +51,85 @@
 
 ### Containers
 
-#### vector
+#### vector <a id='vector-questions'></a>
    - Declaration and Operations - [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/#vector) or [GFG](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
    - 2D vector - [GFG](https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/)
-  ##### Questions
-  1. soon
-  2. soon
+      
+      <details>
+      <summary>
+         Questions
+      </summary>
 
-#### Pairs
+      | Question                                                                                                            | Possible Solution |
+      | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
+      | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                   | []()              |
+      | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/)                                               | []()              |
+      | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | []()              |
+      | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)               | []()              |
+      </details>
+   
+#### Pairs <a id='pair-questions'></a>
    - Declaration and Operations - [GFG](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
   or [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/#pairs)
+      <details>
+      <summary>Questions</summary>
+         1. soon <br>
+         2. soon
+      </details>
 
 #### Iterators 
   - iterators are the most general way to access data in containers
   - [Iterators - TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/#iterators)
+      <details>
+         <summary>Questions</summary>
+         1. soon <br>
+         2. soon
+      </details>
 
-#### Set
+#### Set <a id='set-questions'></a>
    - [Set - TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/#set)
+      <details>
+      <summary>
+      Questions
+      </summary>
+      
+      | Question                                                    | Possible Solution                     |
+      | ----------------------------------------------------------- | ------------------------------------- |
+      | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Solution](https://ideone.com/OGE6Re) |
+      </details>
 
-#### Map
+#### Map <a id='map-questions'></a>
    - [Map - TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/#map)
+      <details>
+         <summary>Questions</summary>
+         1. soon <br>
+         2. soon
+      </details>
+
+#### Stack <a id='stack-questions'></a>
+   - [null]()
+      
+      <details>
+      <summary>
+      Questions
+      </summary>
+         
+      | Question                                                                              | Possible Solution |
+      | ------------------------------------------------------------------------------------- | ----------------- |
+      | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | []()              |
+      </details>
+
+<br><br>
+<details id='misc'>
+<summary>
+<b>Misc Questions</b>
+</summary>
+
+| Question                                                                            | Possible Solution |
+| ----------------------------------------------------------------------------------- | ----------------- |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) **reverse()** | []()              |
+| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) **count()**   | []()              |
+</details>
 
 
 ### Resources
