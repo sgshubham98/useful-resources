@@ -62,10 +62,10 @@
 
       | Question                                                                                                            | Possible Solution |
       | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
-      | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                   | []()              |
-      | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/)                                               | []()              |
-      | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | []()              |
-      | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)               | []()              |
+      | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                   | [Solution](../master/solutions/1480.cpp) |
+      | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/)                                               | [Solution](../master/solutions/1470.cpp) |
+      | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Solution](../master/solutions/1431.cpp) |
+      | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)               |  |
       </details>
    
 #### Pairs <a id='pair-questions'></a>
